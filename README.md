@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @FastEddy01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @FastEddyOne
+- 👀 I’m interested in web development, streaming, and gaming.
+- 🌱 I’m currently learning everything I can but mostly fullstack (MERN) and lua.
 
-<!---
-FastEddy01/FastEddy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
