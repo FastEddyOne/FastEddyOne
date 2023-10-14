@@ -18,3 +18,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+![FastEddyOne's GitHub stats](https://github-readme-stats-two-eta-52.vercel.app/api?username=fasteddyone&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats-two-eta-52.vercel.app/api/top-langs/?username=fasteddyone)](https://github.com/FastEddyOne/github-readme-stats)
+
