@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eddy</h1>
+<h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate fullstack developer from Utah</h3>
 
 ## 🚀 About Me
