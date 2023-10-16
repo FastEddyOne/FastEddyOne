@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eddy</h1>
 <h3 align="center">A passionate fullstack developer from Utah</h3>
 
-# 💫 About Me:
-- 🌱 I’m currently learning **the MERN Stack, Python, and Lua**
-
-- 👯 I’m looking to collaborate on **fun and innovative projects**
-
-- 👨‍💻 All of my projects are available at [fasteddy.dev](fasteddy.dev)
-
-- 📫 How to reach me **fasteddydev@gmail.com**
-
-- ⚡ Fun fact **I stream on Twitch**
+## 🚀 About Me
+- 📚 Currently mastering: **MERN Stack, Python,** and **Lua**
+- 🤝 Open to collaborate on: **Innovative and Engaging Projects**
+- 🌐 Portfolio: [fasteddy.dev](https://fasteddy.dev)
+- ✉️ Reach out to me at: [fasteddydev@gmail.com](mailto:fasteddydev@gmail.com)
+- ⚡ Fun Fact: I also stream on Twitch!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fasteddyone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiemock) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fasteddy1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fasteddyone) 
