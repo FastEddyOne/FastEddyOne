@@ -4,7 +4,6 @@
 ## 🚀 About Me
 - 📚 Currently mastering: **MERN Stack, Python,** and **Lua**
 - 🤝 Open to collaborate on: **Innovative and Engaging Projects**
-- 🌐 Portfolio: [fasteddy.dev](https://fasteddy.dev)
 - ✉️ Reach out to me at: [fasteddydev@gmail.com](mailto:fasteddydev@gmail.com)
 - ⚡ Fun Fact: I also stream on Twitch!
 
